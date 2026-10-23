@@ -1,3 +1,3 @@
-Developed a plant disease detection system using TensorFlow for modeling and Flask for the web interface. Implemented a CNN-based deep learning model to classify plant diseases from images, allowing users to upload plant images and receive instant disease classification results.
+Developed a full-stack web application using React for the frontend and Node.js (Express) for the backend. Designed MySQL database schemas for structured data storage. The system manages community details, tracks member information, and documents eco-friendly practices to enhance the area.
 
-Technologies used : Flask , Machine Learning , Convolutional Neural Networks (CNN)
+Technologies used : React.js , Node.js , MySQL
